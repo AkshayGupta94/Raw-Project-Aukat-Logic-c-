@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\akshaykumar\documents\visual studio 2013\projects\app7\app7\app7.windowsphone\obj\debug\intermediatexaml\app7.windowsphone.exe" HashGuid="999dd3a3-356b-82a3-a30b-9360fe4c330f" />
+    <ReferenceAssembly PathName="c:\users\akshay\documents\visual studio 2013\projects\app7\packages\newtonsoft.json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="225745d8-3693-ad6f-ebd5-8845d81f8e0f" />
+    <ReferenceAssembly PathName="c:\users\akshay\documents\visual studio 2013\projects\app7\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\akshay\documents\visual studio 2013\projects\app7\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
